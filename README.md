@@ -8,3 +8,5 @@ Sentiment analysis remains one of the key problems that has seen extensive appli
 ### Evaluation Metric
 
 The metric used for evaluating the performance of classification model would be weighted F1-Score.
+
+Got F1 score of 88.2.
